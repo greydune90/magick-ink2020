@@ -1,4 +1,4 @@
-**Public name:** *(Displayed name)*
+**Public name:** *Barakka*
 
 **Public aliases:**
 
